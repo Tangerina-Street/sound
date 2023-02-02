@@ -1,0 +1,30 @@
+body{
+    background-color:lightblue;
+    color:darkolivegreen;
+    font-family: 'Itim', cursive;
+    text-align: center;
+}
+.header{
+    background-color:lightblue;
+    color: darkolivegreen;
+}
+p{
+    font-weight: bold;
+    font-size: 10px;
+    font-family: 'Itim', cursive;
+}
+button{
+    border: 3px double goldenrod;
+    width: 350px;
+    height: 300px;
+    font-family: 'Itim', cursive;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.copy_right_footer{
+    color:deeppink;
+    width: 400px;
+    font-size: 10px;
+    line-height: 30px;
+    text-shadow: 10px;
+}
